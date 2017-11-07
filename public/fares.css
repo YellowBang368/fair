@@ -1,0 +1,78 @@
+.prices .title-small {
+  color: gray;
+}
+
+.prices-fares {
+  margin-top: 40px;
+  padding-bottom: 40px;
+}
+
+.fare, .fare-head, .fare-footer {
+  border-radius: 3px;
+}
+
+.fare-head, .fare-footer {
+  background: #e3e3e3;
+  color: gray;
+  padding: 20px 0;
+}
+
+.fare {
+  background: #f2f2f2;
+  border-bottom: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  width: 90%;
+  margin: auto;
+}
+
+.fare .text-medium {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 32px;
+}
+
+.fare-head {
+  border-bottom: 1px solid #ccc;
+}
+
+.fare .fare-price {
+  font-weight: normal;
+}
+
+.fare-fetures-item {
+  list-style: none;
+  line-height: 12px;
+  padding-top: 12px;
+  padding-left: 0;
+  margin: 20px 0;
+  list-style-type: none;
+}
+
+.fare-featured {
+  background: #59a3fc;
+  border-color: #307edc;
+}
+
+.fare-featured * {
+  color: #fff;
+}
+
+.fare-featured .text-medium,
+.fare-featured .text-lead {
+  color: #d3d3d3;
+}
+
+.fare-featured .fare-footer,
+.fare-featured .fare-head {
+  background: #3b89ec;
+  border-color: #307edc;
+}
+
+.fare ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.fare li {
+  list-style-type: none;
+}
